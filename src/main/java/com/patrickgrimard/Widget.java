@@ -25,7 +25,5 @@ public class Widget {
         return length;
     }
 
-    public int getHeight() {
-        return height;
-    }
+    
 }
